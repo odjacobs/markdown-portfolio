@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I use [Bedrock](https://bedrocklinux.org/) BTW**  
+I write _code_ that sometimes works.
